@@ -8,15 +8,15 @@ An interactive Streamlit web app for analyzing IPL cricket data from 2008 to 202
 ### Dashboard Preview
 
 #### 1. Main Dashboard
-![Dashboard](screenshots/1-dashboard-home.png)
+![Dashboard](1-dashboard-home.png)
 Season-wise filters, key stats, and toss impact analysis for 2024 season showing KKR as winners.
 
 #### 2. Top Performers Analysis  
-![Top Performers](screenshots/2-top-performers.png)
+![Top Performers](2-top-performers.png)
 Interactive bar charts showing Top 10 Run Scorers and stadium-wise match distribution for 2024.
 
 #### 3. Player Comparison
-![Player Comparison](screenshots/3-player-comparison.png)
+![Player Comparison](3-player-comparison.png)
 Head-to-head statistical comparison between any two players. Example: Virat Kohli vs Rohit Sharma.
 
 ### Key Features
